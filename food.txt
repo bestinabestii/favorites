@@ -1,6 +1,3 @@
 biriyani
-noodles
+dosa
 appam
-chappathi
-pizza
-burger
