@@ -1,2 +1,5 @@
 tea
 coffee
+col
+applejuice
+milkshake
