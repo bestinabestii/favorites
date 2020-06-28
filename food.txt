@@ -1,3 +1,6 @@
 biriyani
 noodles
 appam
+chappathi
+pizza
+burger
